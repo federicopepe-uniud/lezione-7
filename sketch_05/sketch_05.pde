@@ -1,6 +1,6 @@
 XML xml;
 
-String APIKEY = "4a688ad0595f3f78eee259a75ece7b63";
+String APIKEY = "";
 
 void setup() {
   size(400, 500);
